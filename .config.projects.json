@@ -1,0 +1,17 @@
+{
+    "projects": {
+        "testdashboard": {
+            "credentialSecret": "huy0832640567"
+        },
+        "node-red-dashboard": {
+            "credentialSecret": false
+        },
+        "test": {
+            "credentialSecret": false
+        },
+        "NODE_RED": {
+            "credentialSecret": false
+        }
+    },
+    "activeProject": "NODE_RED"
+}
