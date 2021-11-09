@@ -1,1 +1,1 @@
-web: node flow.json
+web: node flows.json
